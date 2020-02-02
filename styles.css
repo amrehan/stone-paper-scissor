@@ -43,6 +43,10 @@ img {
   width: 80%;
 }
 
+.wrapper {
+  text-align: center;
+}
+
 footer {
   margin-top: 5%;
   text-align: center;
